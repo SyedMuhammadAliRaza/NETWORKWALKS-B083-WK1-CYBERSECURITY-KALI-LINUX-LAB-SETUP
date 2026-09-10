@@ -138,7 +138,7 @@ Gateway: 10.0.0.1
 DNS: 8.8.8.8
 ```
 
-![image-name-here](image-name-here)
+![Kali Linux Config](<Kali Linux Config.png>)
 
 ---
 
